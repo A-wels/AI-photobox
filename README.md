@@ -20,13 +20,17 @@ The photo will be taken and the background will be removed
 ![Webinterface](./docs/interface.png)
 
 Photo taken:
+
 ![Photo](./docs/base.jpg)
 
 Foreground:
+
 ![Foreground](./docs/foreground.png)
 
 Combined image:
+
 ![Combined](./docs/done.png)
+
 The photo will be saved in the 'done' folder and sent to the entered email adress.
 
 ## Installation
