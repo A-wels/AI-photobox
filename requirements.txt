@@ -40,7 +40,7 @@ nvidia-nccl-cu12==2.18.1
 nvidia-nvjitlink-cu12==12.3.101
 nvidia-nvtx-cu12==12.1.105
 packaging==23.2
-Pillow==10.1.0
+Pillow==10.2.0
 proglog==0.1.10
 PyMatting==1.1.12
 PySocks==1.7.1
